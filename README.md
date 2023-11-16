@@ -29,7 +29,7 @@ source venv/bin/activate
 6. Install the required Python packages for your project using pip
 
 ```shell
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 7. Start the Flask app with the following command
